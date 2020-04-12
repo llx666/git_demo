@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 test1
 origin develop修改
 origin develop第二次修改
+=======
+test1
+origin develop修改
+origin develop第二次修改
+>>>>>>> 24789dbfb0c82e454183157190f1159dcfe06e81
